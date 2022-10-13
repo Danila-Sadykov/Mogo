@@ -339,21 +339,21 @@ hr{
     margin-bottom: 40px;
     padding-bottom: 0;
 
-    background: url(/devices-bg.jpg)
+    background: url(devices-bg.jpg)
     center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
 
 .section--clients{
-    background: #f5f5f5 url(/clients-bg.jpg)
+    background: #f5f5f5 url(clients-bg.jpg)
     center no-repeat;
 
     background-size: cover;
 }
 
 .section--map{
-    background: #e6e6e6 url(/map-bg.jpg)
+    background: #e6e6e6 url(map-bg.jpg)
     center no-repeat;
     padding: 40px 0;
 }
